@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://github.com/Bartek2463/Bartek2463/blob/main/icons8-java.svg">
-<img src ="https://github.com/Bartek2463/Bartek2463/blob/main/giphy.gif" heigh="100" width = "100">
+<img src="https://github.com/Bartek2463/Bartek2463/blob/main/icons8-java.svg" heigh="50" width = "50">
+<img src ="https://github.com/Bartek2463/Bartek2463/blob/main/giphy.gif" heigh="50" width = "50">
 
 <!--
 **Bartek2463/Bartek2463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
