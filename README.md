@@ -3,9 +3,9 @@
 <div><img src="https://github.com/Bartek2463/Bartek2463/blob/main/icons8-java.svg" heigh="100" width = "100">
 <img src ="https://github.com/Bartek2463/Bartek2463/blob/main/giphy.gif" heigh="100" width = "100">
 <div>
-<h5>Junior Java Developer<h5>
+<h6>Junior Java Developer<h6>
  
- <h5>About Me:<h5>
+ <h3>About Me:<h3>
   
 
 <!--
