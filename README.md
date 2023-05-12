@@ -3,7 +3,7 @@
 <div><img src="https://github.com/Bartek2463/Bartek2463/blob/main/icons8-java.svg" heigh="100" width = "100">
 <img src ="https://github.com/Bartek2463/Bartek2463/blob/main/giphy.gif" heigh="100" width = "100">
 <div>
-<h1>Junior Java Developer<h1>
+<h4>Junior Java Developer<h4>
  
  About Me:
   
