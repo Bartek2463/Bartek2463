@@ -5,5 +5,9 @@
 <div>
 <h3>Junior Java Developer<h3>
  
+ <ul> 
+  <li><a>ewre</a></li>
+ </ul>
+ 
  <h3>About Me:<h3>
   <p> Currently i Live in Rzeszow<p>
