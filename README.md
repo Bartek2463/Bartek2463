@@ -5,12 +5,12 @@
 <div>
 <div><h3>Junior Java Developer<h3></div>
 <div> <h3>About Me:<h3>
- <ol>
+ <ul>
   <li value="100">Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
   <li>Water</li>
   <li>Juice</li>
   <li>Beer</li>
-</ol>
+</ul>
 </div>
