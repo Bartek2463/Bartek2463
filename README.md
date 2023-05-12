@@ -6,11 +6,11 @@
 <h3>Junior Java Developer<h3>
  
  <h3>About Me:<h3>
- <p> <ul>
+ <em> <ul>
    <li>Currently I live in Rzeszow<li>
    <li> I'm getting my first commercial experience as Junior Dev.<li>
   <ul>
-<p>
+<em>
 <!--
 **Bartek2463/Bartek2463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
