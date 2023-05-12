@@ -7,7 +7,7 @@
  
  <h3>About Me:<h3>
   <ul>
-   <li><p>Currently I live in Rzeszow<p><li>
+   <p>Currently I live in Rzeszow<p>
    <li> I'm getting my first commercial experience as Junior Dev.<li>
   <ul>
 
