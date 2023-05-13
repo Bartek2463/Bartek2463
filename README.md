@@ -21,5 +21,3 @@
     <img src="https://komarev.com/ghpvc/?username=Bartek2463&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-### :woman_technologist: About Me :
-  </div>
