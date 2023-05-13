@@ -12,7 +12,7 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
  <img src="https://komarev.com/ghpvc/?username=Bartek2463&style=flat-square&color=blue" alt=""/>
+  </a>
 </div>
   </div>
