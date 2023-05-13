@@ -38,8 +38,9 @@
 
 ### :fire: My Stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bartek2463)](https://git.io/streak-stats)
+  <div>
 <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
-
+  </div>
  
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
