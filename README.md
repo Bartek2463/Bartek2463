@@ -40,10 +40,8 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bartek2463)](https://git.io/streak-stats)
 <div id="header" align="center">
   - :seedling: Exploring Technical Content Writing.
-  
     <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
 </div>
-   <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
  
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
