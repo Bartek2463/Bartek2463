@@ -38,8 +38,9 @@
 
 ### :fire: My Stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bartek2463)](https://git.io/streak-stats)
+<div id="header" align="center">
   - :seedling: Exploring Technical Content Writing.
-  <div id="header" align="center">
+  
     <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
 </div>
    <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
