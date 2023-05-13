@@ -9,7 +9,7 @@
   <h3> Junior Java Developer</h3> 
   </div>
     
-  <div>
+ 
 ### :woman_technologist: About Me :
    I am Junior Java Developer I live in Rzeszow, Poland  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     
@@ -20,7 +20,7 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bartlomiej-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartlomiej-szybiak/)
-  </div>
+
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
