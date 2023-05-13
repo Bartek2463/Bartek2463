@@ -6,10 +6,12 @@
     <img src="https://github.com/Bartek2463/Bartek2463/blob/main/giphy.gif" width="100"/>
 </div>
 <h3> Junior Java Developer 
-  ### :woman_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  
-  
+  <div>
+ ---
+
+### :woman_technologist: About Me :
+   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  </div>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
