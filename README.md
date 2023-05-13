@@ -51,5 +51,6 @@
   <a href="https://github.com/Bartek2463"> 
     <img src="https://komarev.com/ghpvc/?username=Bartek2463&style=flat-square&color=blue" alt=""/>
   </a>
+    </div>
 </div>
 
