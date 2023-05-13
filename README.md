@@ -37,8 +37,10 @@
 </div> 
 
 ### :fire: My Stats :
-   <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
+  - :seedling: Exploring Technical Content Writing.
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bartek2463)](https://git.io/streak-stats)
+  - :seedling: Exploring Technical Content Writing.
+   <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
  
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
