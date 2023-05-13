@@ -1,4 +1,5 @@
 <div>
+<div>
 <h1>Hi everyone I'm Bartlomiej Szybiak
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <div id="header" align="left">
@@ -30,3 +31,5 @@
     <img src="https://komarev.com/ghpvc/?username=Bartek2463&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+### :hammer_and_wrench: Languages and Tools :
+  </div>
