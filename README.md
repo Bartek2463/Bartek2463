@@ -1,3 +1,4 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/nft-computer-pc-E6EnvXLzCwnhV58V9l/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/CleverCodeLab-cat-cute-dead-line-7EMuTfl61WDzFwar6G"/>
 </div>
+
