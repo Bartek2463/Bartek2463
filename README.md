@@ -38,7 +38,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bartek2463)](https://git.io/streak-stats)
-  <div id="header" align="center">
+  <div id="header" align="left">
 <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
   </div>
  
