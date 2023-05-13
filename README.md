@@ -21,6 +21,8 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bartlomiej-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartlomiej-szybiak/)
+  
+### :hammer_and_wrench: Languages and Tools :
 
   
 <div id="badges">
@@ -31,5 +33,4 @@
     <img src="https://komarev.com/ghpvc/?username=Bartek2463&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-### :hammer_and_wrench: Languages and Tools :
 
