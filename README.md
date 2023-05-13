@@ -34,14 +34,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    
-</div>
+</div> 
   
-  <div>
+  ---
+
 ### :fire: My Stats :
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bartek2463&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
-  
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
