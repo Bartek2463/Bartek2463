@@ -37,10 +37,8 @@
 </div> 
 
 ### :fire: My Stats :
-   <div id="header" align="right">
-     <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
-</div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bartek2463)](https://git.io/streak-stats)
+   <img src="https://www.codewars.com/users/Bar5566/badges/large"/>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bartek2463)](https://git.io/streak-stats)
  
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
