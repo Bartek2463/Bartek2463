@@ -5,7 +5,7 @@
 <div id="header" align="left">
     <img src="https://github.com/Bartek2463/Bartek2463/blob/main/icons8-java.svg" width="100"/> 
 </div>
-  <div align="right">
+  <div  id="header" align="right">
     <img src="https://github.com/Bartek2463/Bartek2463/blob/main/giphy.gif" width="100"/>
 </div>
   <div>
