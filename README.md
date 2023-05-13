@@ -38,7 +38,7 @@
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bartek2463)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek2463)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
 <div id="badges">
   <a href="https://www.linkedin.com/in/bartlomiej-szybiak/">
