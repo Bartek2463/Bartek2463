@@ -11,7 +11,7 @@
   </div>
     
  
-### :woman_technologist: About Me :
+### About Me :
    I am Junior Java Developer I live in Rzeszow, Poland  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     
  - :telescope:  I'm getting my first commercial experience as Junior Dev,.
